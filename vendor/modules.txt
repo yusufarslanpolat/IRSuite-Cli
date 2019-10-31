@@ -1,0 +1,16 @@
+# github.com/akavel/rsrc v0.8.0
+github.com/akavel/rsrc
+github.com/akavel/rsrc/binutil
+github.com/akavel/rsrc/coff
+github.com/akavel/rsrc/ico
+github.com/akavel/rsrc/internal
+github.com/akavel/rsrc/rsrc
+# github.com/alecthomas/template v0.0.0-20190718012654-fb15b899a751
+github.com/alecthomas/template
+github.com/alecthomas/template/parse
+# github.com/alecthomas/units v0.0.0-20190924025748-f65c72e2690d
+github.com/alecthomas/units
+# github.com/pkg/errors v0.8.1
+github.com/pkg/errors
+# gopkg.in/alecthomas/kingpin.v2 v2.2.6
+gopkg.in/alecthomas/kingpin.v2
