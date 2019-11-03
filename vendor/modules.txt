@@ -1,16 +1,42 @@
-# github.com/akavel/rsrc v0.8.0
-github.com/akavel/rsrc
-github.com/akavel/rsrc/binutil
-github.com/akavel/rsrc/coff
-github.com/akavel/rsrc/ico
-github.com/akavel/rsrc/internal
-github.com/akavel/rsrc/rsrc
+# github.com/StackExchange/wmi v0.0.0-20190523213315-cbe66965904d
+github.com/StackExchange/wmi
 # github.com/alecthomas/template v0.0.0-20190718012654-fb15b899a751
 github.com/alecthomas/template
 github.com/alecthomas/template/parse
 # github.com/alecthomas/units v0.0.0-20190924025748-f65c72e2690d
 github.com/alecthomas/units
+# github.com/atotto/clipboard v0.1.2
+github.com/atotto/clipboard
+# github.com/bmatcuk/doublestar v1.1.5
+github.com/bmatcuk/doublestar
+# github.com/botherder/go-autoruns v0.0.0-20180903164116-50b70e550ae7
+github.com/botherder/go-autoruns
+# github.com/botherder/go-files v0.0.0-20180205213231-2246e61e05ec
+github.com/botherder/go-files
+# github.com/daviddengcn/go-colortext v0.0.0-20180409174941-186a3d44e920
+github.com/daviddengcn/go-colortext
+# github.com/go-ole/go-ole v1.2.4
+github.com/go-ole/go-ole
+github.com/go-ole/go-ole/oleutil
+# github.com/konsorten/go-windows-terminal-sequences v1.0.1
+github.com/konsorten/go-windows-terminal-sequences
+# github.com/mattn/go-colorable v0.1.4
+github.com/mattn/go-colorable
+# github.com/mattn/go-isatty v0.0.8
+github.com/mattn/go-isatty
+# github.com/mattn/go-shellwords v1.0.6
+github.com/mattn/go-shellwords
 # github.com/pkg/errors v0.8.1
 github.com/pkg/errors
+# github.com/sirupsen/logrus v1.4.2
+github.com/sirupsen/logrus
+# golang.org/x/sys v0.0.0-20191029155521-f43be2a4598c
+golang.org/x/sys/unix
+golang.org/x/sys/windows
+golang.org/x/sys/windows/registry
 # gopkg.in/alecthomas/kingpin.v2 v2.2.6
 gopkg.in/alecthomas/kingpin.v2
+# gopkg.in/yaml.v2 v2.2.2
+gopkg.in/yaml.v2
+# howett.net/plist v0.0.0-20181124034731-591f970eefbb
+howett.net/plist

@@ -1,0 +1,55 @@
+https://www.jaiminton.com/cheatsheet/DFIR/#determine-timestomping
+golang.org/x/sys/windows/registry
+https://github.com/golang/sys/tree/master/windows/svc/example
+sadece windowsta çalışması lazım https://tutorialedge.net/golang/executing-system-commands-with-golang/
+https://gowalker.org/golang.org/x/sys/windows?refs
+
+FastIR
+IE/Firefox/Chrome History
+IE/Firefox/Chrome Downloads
+Named Pipes
+Prefetch
+Recycle-bin
+Startup Directories
+health
+
+ARP Table
+Drives List
+Network Drives
+Network Cards
+Processes
+Routing Table
+Tasks
+Scheduled Jobs
+Services
+Sessions
+Network Shares
+Sockets
+registry
+
+Installer Folders
+OpenSaveMRU
+Recent Docs
+Services
+Shellbags
+USB History
+UserAssists
+Networks List
+memory
+
+Loaded DLLs
+Opened Files
+dump
+
+MFT (raw or timeline) we use AnalyseMFT
+MBR
+RAM
+DISK
+Registry
+SAM
+FileCatcher
+
+Based on mime type
+Define path and depth to filter the search
+Possibility to filter your search
+Yara Rules
